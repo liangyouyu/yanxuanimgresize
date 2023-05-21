@@ -1,0 +1,20 @@
+{
+  "name": "yanxuanimgresize",
+  "version": "0.1.1",
+  "description": "a tool which is used to resize the size of pictures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "jpeg",
+    "png"
+  ],
+  "dependencies": {
+    "sharp": "^0.30.7"
+  },
+  "bin": {
+    "yanxuanimgresize": "./index.js"
+  }
+}

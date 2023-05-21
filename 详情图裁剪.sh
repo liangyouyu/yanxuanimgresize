@@ -1,0 +1,1 @@
+node ~/Documents/详情图剪裁/code/index.js  -f ~/Documents/详情图剪裁/详情图输入 -t ~/Documents/详情图剪裁/详情图输出 -w 750 -h 1500 -n 详情长图.jpg
